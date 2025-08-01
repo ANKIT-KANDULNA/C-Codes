@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 int partition(int arr[],int lower,int upper){
     int p=arr[lower];
     int m=lower;
